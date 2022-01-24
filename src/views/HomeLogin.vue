@@ -1,6 +1,5 @@
 <template>
   <div class="login">
-    <!-- <img alt="Vue logo" src="../assets/logo-powerstreet.png"> -->
     <section class="hero is-fullheight">
       <div class="hero-body is-flex is-justify-content-center">
         <Login msg="Bienvenido"/> 
