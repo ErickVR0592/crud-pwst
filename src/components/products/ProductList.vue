@@ -32,7 +32,7 @@
             />
           </div>
         </div>
-        <nav class="pagination is-rounded is-centered mt-6" role="navigation" aria-label="pagination">
+        <nav class="pagination is-rounded is-centered mt-6 mb-6" role="navigation" aria-label="pagination">
           <a class="pagination-previous" @click="getPreviousPage">Anterior</a>
           <a class="pagination-next" @click="getNextPage">Siguiente</a>
           <ul class="pagination-list">
